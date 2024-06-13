@@ -1,7 +1,7 @@
 # Student Portfolio
 
-# Heading 1
+## Introduction
+Text example.
 
-## Heading 2
-
-### Headings 3 
+## Methodology
+Text example.
