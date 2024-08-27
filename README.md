@@ -8,4 +8,4 @@ I’m always interested in learning new things and finding practical solutions t
 <p>Feel free to explore my projects, and reach out if you’d like to connect!</p>
 
 ## Projects
-- [Predicting wine quality through physicochemical features](assets/DSPP_github.ipynb)
+- [Predicting wine quality through physicochemical features](https://github.com/sdanifern/student-portfolio/blob/1337ca9ec5d8c836b0e17abf0e8452822fca00e5/assets/DSPP_github.ipynb)
