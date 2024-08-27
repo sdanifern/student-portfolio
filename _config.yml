@@ -1,7 +1,12 @@
 title: Sara Fernandes
 # logo: assets/sadcat.jpg
-description: Hi, I'm Sara, a Data Analyst with experience in the finance sector and a degree apprenticeship student at BPP University, working towards a BSc in Data Science. My work focuses on using data to uncover insights and support decision-making.
-Here, you’ll find projects showcasing my skills in data analysis, statistical modeling, and machine learning using tools like Python and SQL. I’m always interested in learning new things and finding practical solutions through data.
-Feel free to explore my projects.
+introduction: |
+  Welcome to my GitHub!
+
+  I am a Data Analyst with experience in the finance sector and a degree apprenticeship student at BPP University, working towards a BSc in Data Science. My work focuses on using data to uncover insights and support decision-making.
+
+  Here, you’ll find projects showcasing my skills in data analysis, statistical modeling, and machine learning using tools like Python and SQL. I’m always interested in learning new things and finding practical solutions through data.
+
+  Feel free to explore my projects, and reach out if you’d like to connect!
 # show_downloads: true
 theme: jekyll-theme-minimal
