@@ -7,4 +7,3 @@ Text example.
 Text example.
 
 ## Image test
-![image name here](assets/sadcat.jpg)
